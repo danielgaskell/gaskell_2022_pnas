@@ -1,0 +1,40 @@
+Proxy,Category,High,Low,Mean,Gradient
+Sijp compilation,Proxy,,,29.3,12.585
+Sijp compilation,Proxy,,,31.7,5.745
+Zhang compilation,Proxy,,,19.6,20.67
+Zhang compilation,Proxy,,,28.5,6.43
+Cramwinckel compilation,Proxy,,,20.9,25.436
+Cramwinckel compilation,Proxy,,,27.3,19.932
+CESM1.2,Eocene (DeepMIP),6.3,29.3,22.01,23
+CESM1.2,Eocene (DeepMIP),13.3,34.09,27.5,20.79
+CESM1.2,Eocene (DeepMIP),17.92,37.6,31.36,19.67
+CESM1.2,Eocene (DeepMIP),24.09,41.79,36.18,17.7
+GFDL,Eocene (DeepMIP),7.61,30.26,23.08,22.65
+GFDL,Eocene (DeepMIP),10.64,33.23,26.07,22.58
+GFDL,Eocene (DeepMIP),12.86,35.11,28.06,22.26
+GFDL,Eocene (DeepMIP),15.16,36.67,29.85,21.51
+GFDL,Eocene (DeepMIP),18.69,38.53,32.24,19.84
+HadCM3,Eocene (DeepMIP),3.35,28.63,20.61,25.28
+HadCM3,Eocene (DeepMIP),6.76,31.53,23.68,24.77
+HadCM3,Eocene (DeepMIP),10.58,34.3,26.78,23.72
+COSMOS,Eocene (DeepMIP),3.47,28.4,20.49,24.93
+COSMOS,Eocene (DeepMIP),9.45,35.06,26.94,25.6
+COSMOS,Eocene (DeepMIP),10.68,36.47,28.3,25.79
+NorESM,Eocene (DeepMIP),8.22,31.5,24.12,23.28
+NorESM,Eocene (DeepMIP),11.59,33.19,26.35,21.6
+IPSL,Eocene (DeepMIP),5.77,30.65,22.76,24.88
+IPSL,Eocene (DeepMIP),11.27,35.03,27.5,23.77
+CCSM4,Cretaceous,4.26,29.18,22.94,24.92
+CCSM4,Cretaceous,7.25,31.40,25.47,24.14
+HadCM3,Cretaceous,,,17.60,25.77
+HadCM3,Cretaceous,,,23.70,24.52
+CESM2,Pliocene (PlioMIP2),-0.12,25.98,18.18,26.09
+CESM2,Pliocene (PlioMIP2),4.16,29.42,22.15,25.26
+EC-Earth3,Pliocene (PlioMIP2),0.79,25.26,18.17,24.47
+EC-Earth3,Pliocene (PlioMIP2),5.13,28.53,21.98,23.40
+GISS-E2,Pliocene (PlioMIP2),-0.49,26.16,18.03,26.65
+GISS-E2,Pliocene (PlioMIP2),1.30,27.47,19.81,26.18
+HadGEM3,Pliocene (PlioMIP2),0.36,25.42,17.85,25.06
+HadGEM3,Pliocene (PlioMIP2),4.35,29.31,21.92,24.96
+NorESM,Pliocene (PlioMIP2),0.04,25.75,18.38,25.71
+NorESM,Pliocene (PlioMIP2),1.26,27.09,19.98,25.82

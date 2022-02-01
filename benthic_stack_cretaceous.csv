@@ -1,0 +1,701 @@
+source,msbf,age,d18O_raw,fullsp,d18O_species,d18O,origin,ref,notes
+DSDP 305,159.37,68.87040325,1.18,Aragonia velascoensis,1.18,1.18,Cramer2009,BarreraSavin99,"In Cramer et al., 2009, compilation."
+DSDP 305,160.27,69.23926318,1.23,Aragonia velascoensis,1.23,1.23,Cramer2009,BarreraSavin99,"In Cramer et al., 2009, compilation."
+DSDP 305,161.65,69.8048484,1.19,Aragonia velascoensis,1.19,1.19,Cramer2009,BarreraSavin99,"In Cramer et al., 2009, compilation."
+DSDP 305,224.99,75.53090628,0.42,mixed benthics,0.42,0.42,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,232.45,76.19296173,0.58,mixed benthics,0.58,0.58,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,205.49,73.81082753,0.41,Nuttallides truempyi,0.57,0.57,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,205.99,73.85763189,0.6,Nuttallides truempyi,0.79,0.79,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,206.49,73.90443625,0.15,Nuttallides truempyi,0.28,0.28,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,206.99,73.95124061,0.18,Nuttallides truempyi,0.31,0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,207.99,74.04484933,0.1,Nuttallides truempyi,0.22,0.22,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,208.49,74.09165369,0.31,Nuttallides truempyi,0.46,0.46,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,209.49,74.18526241,0.3,Nuttallides truempyi,0.45,0.45,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,209.99,74.23206677,0.33,Nuttallides truempyi,0.48,0.48,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,210.49,74.27600082,0.23,Nuttallides truempyi,0.37,0.37,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,211.49,74.36143562,0.15,Nuttallides truempyi,0.28,0.28,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,212.49,74.44687042,0.07,Nuttallides truempyi,0.19,0.19,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,214.99,74.66045742,0.21,Nuttallides truempyi,0.35,0.35,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,215.49,74.70317482,0.08,Nuttallides truempyi,0.2,0.2,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,215.94,74.74162048,0.19,Nuttallides truempyi,0.33,0.33,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,216.5,74.78946396,0.29,Nuttallides truempyi,0.44,0.44,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,216.99,74.83132701,0.28,Nuttallides truempyi,0.43,0.43,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,217.49,74.87404441,0.27,Nuttallides truempyi,0.42,0.42,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,217.98,74.91590746,0.39,Nuttallides truempyi,0.55,0.55,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,218.49,74.95947921,0.31,Nuttallides truempyi,0.46,0.46,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,219.45,75.04366075,0.39,Nuttallides truempyi,0.55,0.55,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,219.99,75.091154,0.48,Nuttallides truempyi,0.65,0.65,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,220.48,75.13424972,0.42,Nuttallides truempyi,0.58,0.58,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,220.97,75.17734545,0.33,Nuttallides truempyi,0.48,0.48,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,221.49,75.22307968,0.49,Nuttallides truempyi,0.66,0.66,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,224.56,75.49308759,0.28,Nuttallides truempyi,0.43,0.43,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,225.49,75.57488151,0.35,Nuttallides truempyi,0.51,0.51,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,225.98,75.61797723,0.35,Nuttallides truempyi,0.51,0.51,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,226.46,75.66019345,0.18,Nuttallides truempyi,0.31,0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,226.96,75.70438427,0.28,Nuttallides truempyi,0.43,0.43,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,227.41,75.7444316,0.19,Nuttallides truempyi,0.33,0.33,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,227.9,75.7880387,0.23,Nuttallides truempyi,0.37,0.37,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,228.4,75.83253574,0.19,Nuttallides truempyi,0.33,0.33,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,228.92,75.87881265,0.32,Nuttallides truempyi,0.47,0.47,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,229.4,75.92152981,0.1,Nuttallides truempyi,0.22,0.22,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,229.98,75.97314637,0.22,Nuttallides truempyi,0.36,0.36,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,230.45,76.01497359,0.22,Nuttallides truempyi,0.36,0.36,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,231.97,76.15024458,0.26,Nuttallides truempyi,0.4,0.4,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,233.99,76.33001261,0.2,Nuttallides truempyi,0.34,0.34,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,234.49,76.37450964,0.21,Nuttallides truempyi,0.35,0.35,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,234.93,76.41378312,0.22,Nuttallides truempyi,0.36,0.36,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,235.45,76.46061575,0.43,Nuttallides truempyi,0.6,0.6,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,235.97,76.50744839,0.22,Nuttallides truempyi,0.36,0.36,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,236.48,76.55338039,0.22,Nuttallides truempyi,0.36,0.36,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,236.96,76.59661051,0.17,Nuttallides truempyi,0.3,0.3,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,237.47,76.64254252,0.29,Nuttallides truempyi,0.44,0.44,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,237.9,76.6812695,0.25,Nuttallides truempyi,0.39,0.39,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,237.99,76.68937515,0.17,Nuttallides truempyi,0.3,0.3,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,238.93,76.77403414,-0.02,Nuttallides truempyi,0.09,0.09,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,239.49,76.82446928,0.12,Nuttallides truempyi,0.25,0.25,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,239.99,76.86950066,-0.05,Nuttallides truempyi,0.06,0.06,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,240.49,76.91453203,-0.4,Nuttallides truempyi,-0.34,-0.34,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,242.51,77.0964588,0.12,Nuttallides truempyi,0.25,0.25,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,243.01,77.1412589,-0.12,Nuttallides truempyi,-0.02,-0.02,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,243.49,77.18397606,-0.04,Nuttallides truempyi,0.07,0.07,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,243.99,77.2284731,-0.4,Nuttallides truempyi,-0.34,-0.34,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,244.99,77.31746717,0.19,Nuttallides truempyi,0.33,0.33,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,252.44,77.98276216,-0.4,Nuttallides truempyi,-0.34,-0.34,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,252.97,78.03069764,-0.31,Nuttallides truempyi,-0.24,-0.24,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,253.75,78.10124421,-0.15,Nuttallides truempyi,-0.06,-0.06,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,254.12,78.13470861,-0.38,Nuttallides truempyi,-0.31,-0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,254.48,78.16726856,-0.53,Nuttallides truempyi,-0.48,-0.48,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,139.7,66.90687633,0.49,Nuttallides truempyi,0.66,0.66,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,141.2,67.01801376,0.4,Nuttallides truempyi,0.56,0.56,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,142.67,67.12546555,0.56,Nuttallides truempyi,0.74,0.74,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,144.2,67.23580665,0.44,Nuttallides truempyi,0.61,0.61,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,145.56,67.33388763,0.41,Nuttallides truempyi,0.57,0.57,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,149.15,67.59279257,0.11,Nuttallides truempyi,0.24,0.24,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,150.72,67.70601841,0.26,Nuttallides truempyi,0.4,0.4,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,152.25,67.81635951,0.24,Nuttallides truempyi,0.38,0.38,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,153.7,67.92855237,0.42,Nuttallides truempyi,0.58,0.58,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,155.2,68.04514854,0.49,Nuttallides truempyi,0.66,0.66,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,156.76,68.16640857,0.48,Nuttallides truempyi,0.65,0.65,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,159.37,68.87040325,0.76,Nuttallides truempyi,0.97,0.97,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,160.27,69.23926318,0.91,Nuttallides truempyi,1.13,1.13,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,161.65,69.8048484,0.77,Nuttallides truempyi,0.98,0.98,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,163.27,70.24860761,0.7,Nuttallides truempyi,0.9,0.9,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,164.77,70.35600341,0.72,Nuttallides truempyi,0.92,0.92,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,166.21,70.45910337,0.91,Nuttallides truempyi,1.13,1.13,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,167.71,70.56649917,0.5,Nuttallides truempyi,0.67,0.67,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,169.25,70.67675886,0.59,Nuttallides truempyi,0.78,0.78,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,170.79,70.78701855,0.51,Nuttallides truempyi,0.69,0.69,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,172.2,70.8879706,0.59,Nuttallides truempyi,0.78,0.78,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,172.2,70.8879706,0.64,Nuttallides truempyi,0.83,0.83,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,173.71,70.99733087,0.54,Nuttallides truempyi,0.72,0.72,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,175.24,71.10990826,0.59,Nuttallides truempyi,0.78,0.78,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,177.21,71.25486084,0.14,Nuttallides truempyi,0.27,0.27,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,180.16,71.47192182,0.01,Nuttallides truempyi,0.12,0.12,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,183.26,71.70425606,0.02,Nuttallides truempyi,0.13,0.13,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,186.67,72.01414966,-0.01,Nuttallides truempyi,0.1,0.1,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,188.17,72.1504665,0,Nuttallides truempyi,0.11,0.11,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,189.72,72.29132723,0,Nuttallides truempyi,0.11,0.11,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,191.2,72.42582651,-0.1,Nuttallides truempyi,0,0,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,192.7,72.56444408,-0.08,Nuttallides truempyi,0.02,0.02,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,194.18,72.71125071,-0.04,Nuttallides truempyi,0.07,0.07,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP 305,210.49,74.27600082,0.73,Praebulimina,0.45,0.45,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,215.49,74.70317482,0.96,Praebulimina,0.68,0.68,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,219.99,75.091154,1.09,Praebulimina,0.81,0.81,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,224.56,75.49308759,0.84,Praebulimina,0.56,0.56,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,224.99,75.53090628,0.57,Praebulimina,0.29,0.29,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,225.49,75.57488151,0.65,Praebulimina,0.37,0.37,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,225.98,75.61797723,0.62,Praebulimina,0.34,0.34,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,226.46,75.66019345,0.49,Praebulimina,0.21,0.21,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,226.96,75.70438427,0.66,Praebulimina,0.38,0.38,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,227.41,75.7444316,0.52,Praebulimina,0.24,0.24,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,227.9,75.7880387,0.58,Praebulimina,0.3,0.3,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,228.4,75.83253574,0.61,Praebulimina,0.33,0.33,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,228.4,75.83253574,0.32,Praebulimina,0.04,0.04,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,228.92,75.87881265,0.64,Praebulimina,0.36,0.36,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,229.4,75.92152981,0.69,Praebulimina,0.41,0.41,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,229.98,75.97314637,0.57,Praebulimina,0.29,0.29,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,230.45,76.01497359,0.59,Praebulimina,0.31,0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,230.97,76.0612505,0.46,Praebulimina,0.18,0.18,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,231.47,76.10574754,0.69,Praebulimina,0.41,0.41,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,231.97,76.15024458,-0.01,Praebulimina,-0.29,-0.29,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,232.45,76.19296173,0.27,Praebulimina,-0.01,-0.01,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,234.49,76.37450964,0.63,Praebulimina,0.35,0.35,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,235.45,76.46061575,0.39,Praebulimina,0.11,0.11,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,236.48,76.55338039,0.46,Praebulimina,0.18,0.18,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,237.99,76.68937515,0.55,Praebulimina,0.27,0.27,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,238.49,76.73440653,0.46,Praebulimina,0.18,0.18,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,239.99,76.86950066,0.59,Praebulimina,0.31,0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,240.49,76.91453203,0.26,Praebulimina,-0.02,-0.02,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,242.51,77.0964588,0.27,Praebulimina,-0.01,-0.01,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,243.49,77.18397606,0.29,Praebulimina,0.01,0.01,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,244.49,77.27297013,-0.06,Praebulimina,-0.34,-0.34,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,244.99,77.31746717,0.33,Praebulimina,0.05,0.05,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,252.44,77.98276216,-0.09,Praebulimina,-0.37,-0.37,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,252.97,78.03069764,-0.02,Praebulimina,-0.3,-0.3,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,253.75,78.10124421,0.07,Praebulimina,-0.21,-0.21,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,254.12,78.13470861,0.01,Praebulimina,-0.27,-0.27,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP 305,254.48,78.16726856,-0.03,Praebulimina,-0.31,-0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,253.19,89.89953721,-1.73,Bolivina anambra,-1.73,-1.43,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,72.97,68.37237326,0.19,Gavelinella beccariiformis,0.19,0.49,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,80.53,68.79623799,0.07,Gavelinella beccariiformis,0.07,0.37,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,87.01,69.14315211,0.07,Gavelinella beccariiformis,0.07,0.37,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,98.04,69.65588378,0.43,Gavelinella beccariiformis,0.43,0.73,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,99.49,69.71065084,0.36,Gavelinella beccariiformis,0.36,0.66,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,101.92,69.80243286,0.95,Gavelinella beccariiformis,0.95,1.25,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,108.21,70.04000856,0.97,Gavelinella beccariiformis,0.97,1.27,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,132.68,70.74662138,0.31,Gavelinella beccariiformis,0.31,0.61,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,139.21,70.94248277,0.09,Gavelinella beccariiformis,0.09,0.39,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,145.26,71.12962009,-0.04,Gavelinella beccariiformis,-0.04,0.26,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,145.61,71.14044622,0.02,Gavelinella beccariiformis,0.02,0.32,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,162.46,71.91206853,0.01,Gavelinella beccariiformis,0.01,0.31,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,214.96,79.06632426,-0.6,Globorotalites conicus,-0.6,-0.3,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,215.46,79.16949265,-0.16,Globorotalites conicus,-0.16,0.14,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,215.92,79.2705394,-0.22,Globorotalites conicus,-0.22,0.08,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,216.45,79.39149652,-2.05,Globorotalites conicus,-2.05,-1.75,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,216.93,79.5010426,-0.23,Globorotalites conicus,-0.23,0.07,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,217.37,79.60145983,-0.36,Globorotalites conicus,-0.36,-0.06,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,217.99,79.74295684,-0.43,Globorotalites conicus,-0.43,-0.13,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,218.49,80.56159179,-0.42,Globorotalites conicus,-0.42,-0.12,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,218.99,81.53916796,-0.47,Globorotalites conicus,-0.47,-0.17,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,219,81.55871948,-1.06,Globorotalites conicus,-1.06,-0.76,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,219.99,83.4943203,-0.68,Globorotalites conicus,-0.68,-0.38,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,220.49,84.13567782,-0.69,Globorotalites conicus,-0.69,-0.39,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,220.5,84.15531821,-0.9,Globorotalites conicus,-0.9,-0.6,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,221.07,85.27482067,-0.93,Globorotalites conicus,-0.93,-0.63,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,221.37,85.86403249,-1.05,Globorotalites conicus,-1.05,-0.75,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,222.49,86.72133479,-1.04,Globorotalites conicus,-1.04,-0.74,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,222.99,86.78775158,-1.13,Globorotalites conicus,-1.13,-0.83,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,223.49,86.85416837,-1.06,Globorotalites conicus,-1.06,-0.76,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,224.49,86.98700196,-1.4,Globorotalites conicus,-1.4,-1.1,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,224.99,87.05341875,-0.8,Globorotalites conicus,-0.8,-0.5,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,225.49,87.11983554,-1.22,Globorotalites conicus,-1.22,-0.92,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,225.84,87.16632729,-1.29,Globorotalites conicus,-1.29,-0.99,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,226.19,87.21281905,-0.88,Globorotalites conicus,-0.88,-0.58,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,243.59,89.20263189,-0.97,Globorotalites conicus,-0.97,-0.67,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,253.49,89.91724836,-0.62,Globorotalites conicus,-0.62,-0.32,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,254.69,89.98809293,-0.84,Globorotalites conicus,-0.84,-0.54,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,282.01,91.25767859,-1.38,Globorotalites conicus,-1.38,-1.08,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,283.39,91.31578452,-1.79,Globorotalites conicus,-1.79,-1.49,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,291.49,91.7045272,-0.95,Globorotalites conicus,-0.95,-0.65,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,291.99,91.72960251,-1.25,Globorotalites conicus,-1.25,-0.95,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,292.49,91.75467782,-1.32,Globorotalites conicus,-1.32,-1.02,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,293.49,91.80482843,-0.98,Globorotalites conicus,-0.98,-0.68,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,294.19,91.83993387,-1.31,Globorotalites conicus,-1.31,-1.01,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,282.49,91.27788935,-1.53,mixed benthics,-1.53,-1.23,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,282.94,91.29683693,-2.37,mixed benthics,-2.37,-2.07,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,283.8,91.33304787,-1.25,mixed benthics,-1.25,-0.95,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,47.02,67.3318675,0.61,Nuttallides truempyi,0.8,1.1,Cramer2009,"BarreraSavin99, also Li&Keller, 1999","In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,47.48,67.34341492,0.73,Nuttallides truempyi,0.93,1.23,Cramer2009,"BarreraSavin99, also Li&Keller, 1999","In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,48.49,67.36876904,0.85,Nuttallides truempyi,1.07,1.37,Cramer2009,"BarreraSavin99, also Li&Keller, 1999","In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,54,67.50708707,0.24,Nuttallides truempyi,0.38,0.68,Cramer2009,"BarreraSavin99, also Li&Keller, 1999","In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,55.5,67.54474171,0.45,Nuttallides truempyi,0.62,0.92,Cramer2009,"BarreraSavin99, also Li&Keller, 1999","In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,55.86,67.55377882,0.58,Nuttallides truempyi,0.76,1.06,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,56.51,67.57009583,0.52,Nuttallides truempyi,0.7,1,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,63.51,67.74581746,0.43,Nuttallides truempyi,0.6,0.9,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,63.51,67.74581746,0.51,Nuttallides truempyi,0.69,0.99,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,66.48,67.91353508,0.29,Nuttallides truempyi,0.44,0.74,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,66.53,67.91659036,0.49,Nuttallides truempyi,0.66,0.96,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,72.97,68.37237326,0.21,Nuttallides truempyi,0.35,0.65,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,72.97,68.37237326,0.33,Nuttallides truempyi,0.48,0.78,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,74.51,68.46601938,0.41,Nuttallides truempyi,0.57,0.87,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,76.02,68.5517096,0.29,Nuttallides truempyi,0.44,0.74,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,77.51,68.63249614,0.37,Nuttallides truempyi,0.53,0.83,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,78.98,68.7121983,0.37,Nuttallides truempyi,0.53,0.83,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,80.53,68.79623799,0.14,Nuttallides truempyi,0.27,0.57,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,80.53,68.79623799,0.39,Nuttallides truempyi,0.55,0.85,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,82.76,68.9171467,0.43,Nuttallides truempyi,0.6,0.9,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,82.76,68.9171467,0.64,Nuttallides truempyi,0.83,1.13,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,84.25,68.99793324,0.51,Nuttallides truempyi,0.69,0.99,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,85.03,69.04022419,0.31,Nuttallides truempyi,0.46,0.76,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,87.01,69.14315211,0.49,Nuttallides truempyi,0.66,0.96,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,87.96,69.1878579,0.47,Nuttallides truempyi,0.64,0.94,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012, but reported d13C value different."
+DSDP463,91.99,69.37783125,0.55,Nuttallides truempyi,0.73,1.03,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,92.51,69.40237546,0.53,Nuttallides truempyi,0.71,1.01,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,93.51,69.44957587,0.42,Nuttallides truempyi,0.58,0.88,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,94.99,69.51943248,0.49,Nuttallides truempyi,0.66,0.96,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,94.99,69.51943248,0.39,Nuttallides truempyi,0.55,0.85,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,95.93,69.56380087,0.26,Nuttallides truempyi,0.4,0.7,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,96.49,69.5902331,0.45,Nuttallides truempyi,0.62,0.92,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,98.04,69.65588378,0.65,Nuttallides truempyi,0.84,1.14,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,99.49,69.71065084,0.25,Nuttallides truempyi,0.39,0.69,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,99.51,69.71140624,0.48,Nuttallides truempyi,0.65,0.95,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,100.79,69.75975233,0.33,Nuttallides truempyi,0.48,0.78,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,100.88,69.76315167,0.9,Nuttallides truempyi,1.12,1.42,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,101.08,69.77070574,0.85,Nuttallides truempyi,1.07,1.37,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,101.52,69.78732471,0.62,Nuttallides truempyi,0.81,1.11,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,101.54,69.78808012,0.94,Nuttallides truempyi,1.17,1.47,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,101.61,69.79072404,0.88,Nuttallides truempyi,1.1,1.4,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,102.25,69.81489709,0.35,Nuttallides truempyi,0.51,0.81,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,102.25,69.81489709,0.52,Nuttallides truempyi,0.7,1,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,102.33,69.81791872,0.74,Nuttallides truempyi,0.94,1.24,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,102.56,69.82660591,0.7,Nuttallides truempyi,0.9,1.2,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,102.79,69.83529309,0.61,Nuttallides truempyi,0.8,1.1,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,102.79,69.83529309,0.76,Nuttallides truempyi,0.97,1.27,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,103.75,69.87155266,0.5,Nuttallides truempyi,0.67,0.97,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,103.98,69.88023985,0.72,Nuttallides truempyi,0.92,1.22,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,104.48,69.89912504,1.01,Nuttallides truempyi,1.25,1.55,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,104.48,69.89912504,0.78,Nuttallides truempyi,0.99,1.29,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,104.8,69.91121156,0.66,Nuttallides truempyi,0.85,1.15,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,105.25,69.92820823,0.49,Nuttallides truempyi,0.66,0.96,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,105.56,69.93991705,0.87,Nuttallides truempyi,1.09,1.39,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,106.01,69.95691372,1.12,Nuttallides truempyi,1.37,1.67,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,106.02,69.95729142,0.91,Nuttallides truempyi,1.13,1.43,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,106.26,69.96635632,0.87,Nuttallides truempyi,1.09,1.39,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,106.75,69.9848638,0.53,Nuttallides truempyi,0.71,1.01,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,107.18,70.00110507,0.89,Nuttallides truempyi,1.11,1.41,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,107.49,70.01281388,0.62,Nuttallides truempyi,0.81,1.11,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,107.49,70.01281388,0.74,Nuttallides truempyi,0.94,1.24,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,107.76,70.02301189,0.94,Nuttallides truempyi,1.17,1.47,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,108.25,70.04151937,0.52,Nuttallides truempyi,0.7,1,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,108.55,70.05285049,0.89,Nuttallides truempyi,1.11,1.41,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,108.76,70.06078227,1.09,Nuttallides truempyi,1.34,1.64,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,108.76,70.06078227,0.9,Nuttallides truempyi,1.12,1.42,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,109.13,70.07374003,0.93,Nuttallides truempyi,1.16,1.46,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,110.56,70.11685268,0.79,Nuttallides truempyi,1,1.3,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,110.99,70.12981662,1.03,Nuttallides truempyi,1.27,1.57,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,110.99,70.12981662,0.91,Nuttallides truempyi,1.13,1.43,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,111.23,70.13705231,0.77,Nuttallides truempyi,0.98,1.28,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,112.04,70.16147276,0.75,Nuttallides truempyi,0.96,1.26,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,112.51,70.17564265,1.06,Nuttallides truempyi,1.3,1.6,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,112.51,70.17564265,0.97,Nuttallides truempyi,1.2,1.5,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,114.04,70.22177017,1.02,Nuttallides truempyi,1.26,1.56,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,114.04,70.22177017,0.85,Nuttallides truempyi,1.07,1.37,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,114.28,70.22900586,0.67,Nuttallides truempyi,0.87,1.17,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,115.51,70.26608877,0.92,Nuttallides truempyi,1.15,1.45,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,115.51,70.26608877,0.8,Nuttallides truempyi,1.01,1.31,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,120.53,70.41743526,0.7,Nuttallides truempyi,0.9,1.2,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,122.01,70.46022114,0.93,Nuttallides truempyi,1.16,1.46,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,122.01,70.46022114,0.6,Nuttallides truempyi,0.79,1.09,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,122.91,70.48437861,0.67,Nuttallides truempyi,0.87,1.17,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,123.47,70.49940993,0.81,Nuttallides truempyi,1.02,1.32,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,123.47,70.49940993,0.69,Nuttallides truempyi,0.89,1.19,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,123.77,70.50746242,0.56,Nuttallides truempyi,0.74,1.04,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,124.48,70.52651998,0.55,Nuttallides truempyi,0.73,1.03,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,125.01,70.54074604,0.66,Nuttallides truempyi,0.85,1.15,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,126.51,70.5810085,1.04,Nuttallides truempyi,1.28,1.58,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,126.51,70.5810085,0.73,Nuttallides truempyi,0.93,1.23,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,130.29,70.68246987,0.51,Nuttallides truempyi,0.69,0.99,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,130.29,70.68246987,0.62,Nuttallides truempyi,0.81,1.11,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,130.29,70.68246987,0.62,Nuttallides truempyi,0.81,1.11,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,131.75,70.72165866,0.36,Nuttallides truempyi,0.52,0.82,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,131.75,70.72165866,0.57,Nuttallides truempyi,0.75,1.05,"Li & Keller, 1999","Li & Keller, 1999","Same sample interval as Barrera&Savin, 1999, but different d18O value"
+DSDP463,132.71,70.74742663,0.2,Nuttallides truempyi,0.34,0.64,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,132.96,70.75413704,0.56,Nuttallides truempyi,0.74,1.04,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,134.45,70.79524746,0.56,Nuttallides truempyi,0.74,1.04,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,134.54,70.79803132,0.34,Nuttallides truempyi,0.49,0.79,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,135.54,70.82896311,0.69,Nuttallides truempyi,0.89,1.19,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,135.76,70.8357681,0.4,Nuttallides truempyi,0.56,0.86,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,135.89,70.83978924,0.5,Nuttallides truempyi,0.67,0.97,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,137.25,70.88185647,0.07,Nuttallides truempyi,0.19,0.49,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,137.52,70.89020805,0.57,Nuttallides truempyi,0.75,1.05,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,139.25,70.94372005,-0.19,Nuttallides truempyi,-0.1,0.2,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,139.51,70.95176231,0.01,Nuttallides truempyi,0.12,0.42,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,140.77,70.99073636,0.08,Nuttallides truempyi,0.2,0.5,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,140.96,70.9966134,0.36,Nuttallides truempyi,0.52,0.82,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,142.23,71.03589677,0.1,Nuttallides truempyi,0.22,0.52,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,142.45,71.04270177,0.42,Nuttallides truempyi,0.58,0.88,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,143.75,71.08291309,-0.05,Nuttallides truempyi,0.06,0.36,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,143.99,71.09033672,0.28,Nuttallides truempyi,0.43,0.73,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,145.29,71.13054805,-0.47,Nuttallides truempyi,-0.42,-0.12,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,145.49,71.1367344,0.24,Nuttallides truempyi,0.38,0.68,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,146.75,71.18057458,0.03,Nuttallides truempyi,0.15,0.45,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,146.99,71.19071723,0.52,Nuttallides truempyi,0.7,1,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,147.78,71.22410344,-0.22,Nuttallides truempyi,-0.13,0.17,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,148.21,71.24227567,0.11,Nuttallides truempyi,0.24,0.54,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,148.99,71.27523927,0.35,Nuttallides truempyi,0.51,0.81,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,157.74,71.63120839,0.29,Nuttallides truempyi,0.44,0.74,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,158.01,71.64181471,-0.15,Nuttallides truempyi,-0.06,0.24,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,158.51,71.66274092,0.19,Nuttallides truempyi,0.33,0.63,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,159.49,71.72253778,-0.04,Nuttallides truempyi,0.07,0.37,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,159.98,71.75380716,0.22,Nuttallides truempyi,0.36,0.66,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,161.05,71.82208928,0.09,Nuttallides truempyi,0.21,0.51,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,161.53,71.85272052,0.3,Nuttallides truempyi,0.45,0.75,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,162.46,71.91206853,-0.12,Nuttallides truempyi,-0.02,0.28,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,163.03,71.95005371,0.33,Nuttallides truempyi,0.48,0.78,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,164.05,72.02624685,0,Nuttallides truempyi,0.11,0.41,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,164.53,72.06210245,0.2,Nuttallides truempyi,0.34,0.64,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,165.46,72.13157266,-0.11,Nuttallides truempyi,-0.01,0.29,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,165.49,72.13381364,-0.13,Nuttallides truempyi,-0.03,0.27,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,166.04,72.17489817,0.19,Nuttallides truempyi,0.33,0.63,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,167.21,72.26229619,0.01,Nuttallides truempyi,0.12,0.42,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012, but reported d13C value different."
+DSDP463,167.7,72.29889878,-0.04,Nuttallides truempyi,0.07,0.37,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,168.01,72.32205551,0.03,Nuttallides truempyi,0.15,0.45,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012, but reported d13C value different."
+DSDP463,176.71,73.17559174,-0.08,Nuttallides truempyi,0.02,0.32,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,177.14,73.21973628,-0.23,Nuttallides truempyi,-0.15,0.15,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,177.49,73.25566789,-0.04,Nuttallides truempyi,0.07,0.37,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,178.6,73.38045113,-0.05,Nuttallides truempyi,0.06,0.36,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,179.09,73.44472877,0.03,Nuttallides truempyi,0.15,0.45,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012, but reported d13C value different."
+DSDP463,180.2,73.59033732,-0.04,Nuttallides truempyi,0.07,0.37,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,180.54,73.63493813,-0.17,Nuttallides truempyi,-0.08,0.22,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,181.52,73.74577468,-0.07,Nuttallides truempyi,0.03,0.33,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,182.04,73.8034312,-0.14,Nuttallides truempyi,-0.04,0.26,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,182.97,73.90654767,-0.37,Nuttallides truempyi,-0.3,0,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,183.15,73.92650569,-0.04,Nuttallides truempyi,0.07,0.37,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,184.67,74.10924545,-0.07,Nuttallides truempyi,0.03,0.33,Cramer2009,BarreraSavin99,"In Cramer et al., 2009 & Friedrich et al., 2012 compilations."
+DSDP463,184.98,74.14398035,-0.04,Nuttallides truempyi,0.07,0.37,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,186.98,74.39957354,0.05,Nuttallides truempyi,0.17,0.47,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,188.56,74.59464636,0.02,Nuttallides truempyi,0.13,0.43,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,190.06,74.77984207,0.11,Nuttallides truempyi,0.24,0.54,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,191.54,74.97389176,0.2,Nuttallides truempyi,0.34,0.64,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,192.47,75.10604463,0.11,Nuttallides truempyi,0.24,0.54,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,195.71,75.56644817,0.07,Nuttallides truempyi,0.19,0.49,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,196.71,75.71908509,0.23,Nuttallides truempyi,0.37,0.67,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,199.71,76.18979086,-0.14,Nuttallides truempyi,-0.04,0.26,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,200.52,76.31688142,0.06,Nuttallides truempyi,0.18,0.48,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,202.27,76.6221839,0.12,Nuttallides truempyi,0.25,0.55,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,203.52,76.84111682,-0.02,Nuttallides truempyi,0.09,0.39,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,205.29,77.15892983,0.1,Nuttallides truempyi,0.22,0.52,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,205.99,77.29072744,0.08,Nuttallides truempyi,0.2,0.5,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,207.37,77.55055703,0.02,Nuttallides truempyi,0.13,0.43,"Li & Keller, 1999","Li & Keller, 1999","In Friedrich et al., 2012"
+DSDP463,214.96,79.06632426,0.29,Praebulimina,0.01,0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,215.46,79.16949265,0.29,Praebulimina,0.01,0.31,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,216.45,79.39149652,-0.08,Praebulimina,-0.36,-0.06,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,216.93,79.5010426,0.18,Praebulimina,-0.1,0.2,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,217.37,79.60145983,0.18,Praebulimina,-0.1,0.2,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,217.99,79.74295684,-0.06,Praebulimina,-0.34,-0.04,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,220.49,84.13567782,-0.34,Praebulimina,-0.62,-0.32,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,221.07,85.27482067,-0.56,Praebulimina,-0.84,-0.54,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,221.37,85.86403249,-0.69,Praebulimina,-0.97,-0.67,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,222.99,86.78775158,-0.81,Praebulimina,-1.09,-0.79,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,224.99,87.05341875,-0.45,Praebulimina,-0.73,-0.43,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,253.49,89.91724836,-0.8,Praebulimina,-1.08,-0.78,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,254.69,89.98809293,-1.72,Praebulimina,-2,-1.7,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,282.01,91.25767859,-1.54,Praebulimina,-1.82,-1.52,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,283.39,91.31578452,-1.35,Praebulimina,-1.63,-1.33,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,283.8,91.33304787,-1.39,Praebulimina,-1.67,-1.37,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,290.99,91.67945189,-1.07,Praebulimina,-1.35,-1.05,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,291.49,91.7045272,-1.32,Praebulimina,-1.6,-1.3,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,291.99,91.72960251,-1.27,Praebulimina,-1.55,-1.25,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,292.99,91.77975313,-1.07,Praebulimina,-1.35,-1.05,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,293.84,91.82238115,-1.16,Praebulimina,-1.44,-1.14,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+DSDP463,294.19,91.83993387,-0.86,Praebulimina,-1.14,-0.84,"Friedrich et al., 2012","Friedrich et al., 2012","In Friedrich et al., 2012"
+ODP 1210B,218.87,66.27,0.75,Nuttallides truempyi,0.96,0.96,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,219.45,66.29,0.24,Nuttallides truempyi,0.38,0.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,219.65,66.3,0.08,Nuttallides truempyi,0.2,0.2,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,220.55,66.33,0.69,Nuttallides truempyi,0.89,0.89,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,221.15,66.36,0.57,Nuttallides truempyi,0.75,0.75,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,221.85,66.438,0.56,Nuttallides truempyi,0.74,0.74,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,222.65,66.548,0.53,Nuttallides truempyi,0.71,0.71,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,223.35,66.638,0.88,Nuttallides truempyi,1.1,1.1,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,223.55,66.668,0.75,Nuttallides truempyi,0.96,0.96,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,223.95,66.718,0.82,Nuttallides truempyi,1.03,1.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,224.15,66.748,0.76,Nuttallides truempyi,0.97,0.97,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,224.85,66.838,0.69,Nuttallides truempyi,0.89,0.89,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,225.77,66.958,0.75,Nuttallides truempyi,0.96,0.96,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,226.35,67.038,0.77,Nuttallides truempyi,0.98,0.98,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,226.55,67.058,0.45,Nuttallides truempyi,0.62,0.62,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,227.15,67.138,0.67,Nuttallides truempyi,0.87,0.87,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,227.85,67.218,0.78,Nuttallides truempyi,0.99,0.99,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,228.35,67.288,1.11,Nuttallides truempyi,1.36,1.36,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,229.15,67.388,0.89,Nuttallides truempyi,1.11,1.11,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,229.85,67.478,1.05,Nuttallides truempyi,1.29,1.29,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,230.65,67.578,0.68,Nuttallides truempyi,0.88,0.88,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,231.35,67.658,0.66,Nuttallides truempyi,0.85,0.85,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,232.15,67.758,0.75,Nuttallides truempyi,0.96,0.96,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,232.85,67.868,0.65,Nuttallides truempyi,0.84,0.84,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,233.65,68.038,0.72,Nuttallides truempyi,0.92,0.92,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,234.35,68.188,0.7,Nuttallides truempyi,0.9,0.9,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,235.15,68.246,0.53,Nuttallides truempyi,0.71,0.71,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,235.85,68.369,0.77,Nuttallides truempyi,0.98,0.98,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,236.65,68.399,0.98,Nuttallides truempyi,1.21,1.21,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,237.27,68.429,0.42,Nuttallides truempyi,0.58,0.58,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,238.05,68.459,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,238.65,68.489,0.49,Nuttallides truempyi,0.66,0.66,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,239.35,68.519,0.57,Nuttallides truempyi,0.75,0.75,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,240.15,68.559,0.62,Nuttallides truempyi,0.81,0.81,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,240.27,68.559,0.22,Nuttallides truempyi,0.36,0.36,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,240.65,68.579,0.42,Nuttallides truempyi,0.58,0.58,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,241.05,68.599,0.56,Nuttallides truempyi,0.74,0.74,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,241.77,68.629,0.44,Nuttallides truempyi,0.61,0.61,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,242.55,68.669,0.24,Nuttallides truempyi,0.38,0.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,243.22,68.709,0.19,Nuttallides truempyi,0.33,0.33,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,243.45,68.719,0.3,Nuttallides truempyi,0.45,0.45,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,244.05,68.749,0.31,Nuttallides truempyi,0.46,0.46,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,244.72,68.789,0.3,Nuttallides truempyi,0.45,0.45,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,245.55,68.829,0.44,Nuttallides truempyi,0.61,0.61,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,246.22,68.859,0.47,Nuttallides truempyi,0.64,0.64,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,246.72,68.899,0.61,Nuttallides truempyi,0.8,0.8,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,247.55,68.929,0.61,Nuttallides truempyi,0.8,0.8,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,248.15,68.949,0.76,Nuttallides truempyi,0.97,0.97,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,249.05,68.989,0.46,Nuttallides truempyi,0.63,0.63,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,249.72,69.009,0.57,Nuttallides truempyi,0.75,0.75,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,250.55,69.039,0.46,Nuttallides truempyi,0.63,0.63,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,251.22,69.069,0.55,Nuttallides truempyi,0.73,0.73,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,252.05,69.099,0.55,Nuttallides truempyi,0.73,0.73,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,252.73,69.129,0.58,Nuttallides truempyi,0.76,0.76,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,253.55,69.159,0.49,Nuttallides truempyi,0.66,0.66,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,254.15,69.189,0.55,Nuttallides truempyi,0.73,0.73,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,254.23,69.189,0.55,Nuttallides truempyi,0.73,0.73,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,255.07,69.219,0.51,Nuttallides truempyi,0.69,0.69,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,255.73,69.249,0.48,Nuttallides truempyi,0.65,0.65,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,256.23,69.269,0.61,Nuttallides truempyi,0.8,0.8,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,257.05,69.269,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,257.73,69.319,0.72,Nuttallides truempyi,0.92,0.92,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,258.55,69.379,0.63,Nuttallides truempyi,0.82,0.82,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,259.23,69.439,0.66,Nuttallides truempyi,0.85,0.85,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,260.05,69.499,0.57,Nuttallides truempyi,0.75,0.75,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,260.45,69.529,1.01,Nuttallides truempyi,1.25,1.25,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,260.73,69.549,1.01,Nuttallides truempyi,1.25,1.25,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,260.95,69.569,1.05,Nuttallides truempyi,1.29,1.29,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,261.15,69.579,0.71,Nuttallides truempyi,0.91,0.91,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,261.35,69.599,0.73,Nuttallides truempyi,0.93,0.93,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,261.55,69.619,0.83,Nuttallides truempyi,1.04,1.04,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,261.67,69.619,0.7,Nuttallides truempyi,0.9,0.9,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,261.95,69.649,1.16,Nuttallides truempyi,1.42,1.42,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,262.15,69.659,0.72,Nuttallides truempyi,0.92,0.92,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,262.22,69.669,0.92,Nuttallides truempyi,1.15,1.15,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,262.63,69.699,0.71,Nuttallides truempyi,0.91,0.91,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,262.85,69.719,1.1,Nuttallides truempyi,1.35,1.35,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,263.07,69.729,1.13,Nuttallides truempyi,1.38,1.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,263.27,69.749,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,263.42,69.759,0.93,Nuttallides truempyi,1.16,1.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,263.65,69.779,1.14,Nuttallides truempyi,1.39,1.39,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,263.95,69.799,0.87,Nuttallides truempyi,1.09,1.09,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,264.12,69.809,0.83,Nuttallides truempyi,1.04,1.04,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,264.33,69.829,0.8,Nuttallides truempyi,1.01,1.01,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,264.63,69.849,0.78,Nuttallides truempyi,0.99,0.99,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,264.85,69.869,0.93,Nuttallides truempyi,1.16,1.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,265.05,69.879,0.71,Nuttallides truempyi,0.91,0.91,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,265.25,69.899,0.8,Nuttallides truempyi,1.01,1.01,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,265.73,69.939,1.14,Nuttallides truempyi,1.39,1.39,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,265.95,69.949,0.81,Nuttallides truempyi,1.02,1.02,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,266.15,69.969,1.24,Nuttallides truempyi,1.51,1.51,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,266.35,69.979,0.8,Nuttallides truempyi,1.01,1.01,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,266.55,69.999,0.93,Nuttallides truempyi,1.16,1.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,266.77,70.019,0.89,Nuttallides truempyi,1.11,1.11,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,266.95,70.029,0.85,Nuttallides truempyi,1.07,1.07,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,267.15,70.049,1.02,Nuttallides truempyi,1.26,1.26,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,267.23,70.049,0.76,Nuttallides truempyi,0.97,0.97,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,267.45,70.069,0.78,Nuttallides truempyi,0.99,0.99,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,267.65,70.079,0.87,Nuttallides truempyi,1.09,1.09,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,267.85,70.099,0.66,Nuttallides truempyi,0.85,0.85,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,268.05,70.109,1.13,Nuttallides truempyi,1.38,1.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,268.27,70.129,0.49,Nuttallides truempyi,0.66,0.66,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,268.45,70.149,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,269.95,70.289,0.91,Nuttallides truempyi,1.13,1.13,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,270.35,70.329,1.22,Nuttallides truempyi,1.48,1.48,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,270.75,70.379,0.86,Nuttallides truempyi,1.08,1.08,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,270.95,70.399,0.82,Nuttallides truempyi,1.03,1.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,271.15,70.419,0.85,Nuttallides truempyi,1.07,1.07,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,271.35,70.439,1.27,Nuttallides truempyi,1.54,1.54,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,271.45,70.449,0.78,Nuttallides truempyi,0.99,0.99,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,271.65,70.469,1.06,Nuttallides truempyi,1.3,1.3,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,271.85,70.489,1.07,Nuttallides truempyi,1.31,1.31,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,272.05,70.509,0.82,Nuttallides truempyi,1.03,1.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,272.25,70.529,1.19,Nuttallides truempyi,1.45,1.45,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,272.45,70.549,0.95,Nuttallides truempyi,1.18,1.18,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,272.85,70.589,1.05,Nuttallides truempyi,1.29,1.29,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,272.95,70.599,1.1,Nuttallides truempyi,1.35,1.35,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,273.15,70.619,0.93,Nuttallides truempyi,1.16,1.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,273.35,70.639,0.82,Nuttallides truempyi,1.03,1.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,273.55,70.659,0.92,Nuttallides truempyi,1.15,1.15,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,273.75,70.679,0.87,Nuttallides truempyi,1.09,1.09,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,273.95,70.699,1.03,Nuttallides truempyi,1.27,1.27,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,274.45,70.749,0.79,Nuttallides truempyi,1,1,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,275.25,70.829,0.68,Nuttallides truempyi,0.88,0.88,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,275.95,70.899,0.75,Nuttallides truempyi,0.96,0.96,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,276.17,70.919,0.71,Nuttallides truempyi,0.91,0.91,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,276.75,70.979,0.83,Nuttallides truempyi,1.04,1.04,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,276.95,70.999,0.72,Nuttallides truempyi,0.92,0.92,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,277.45,71.049,0.71,Nuttallides truempyi,0.91,0.91,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,278.25,71.129,0.67,Nuttallides truempyi,0.87,0.87,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,278.93,71.189,0.69,Nuttallides truempyi,0.89,0.89,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,279.76,71.279,0.61,Nuttallides truempyi,0.8,0.8,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,280.2,71.319,0.67,Nuttallides truempyi,0.87,0.87,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,281.02,71.399,0.68,Nuttallides truempyi,0.88,0.88,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,281.72,71.469,0.63,Nuttallides truempyi,0.82,0.82,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,282.1,71.449,0.61,Nuttallides truempyi,0.8,0.8,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,282.52,71.489,0.63,Nuttallides truempyi,0.82,0.82,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,283.22,71.559,0.64,Nuttallides truempyi,0.83,0.83,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,284.02,71.639,0.67,Nuttallides truempyi,0.87,0.87,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,284.22,71.659,0.64,Nuttallides truempyi,0.83,0.83,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,284.72,71.699,0.89,Nuttallides truempyi,1.11,1.11,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,285.52,71.749,0.55,Nuttallides truempyi,0.73,0.73,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,285.72,71.769,1,Nuttallides truempyi,1.24,1.24,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,285.89,71.789,0.88,Nuttallides truempyi,1.1,1.1,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,286.12,71.809,0.7,Nuttallides truempyi,0.9,0.9,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,286.22,71.819,0.65,Nuttallides truempyi,0.84,0.84,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,286.39,71.839,0.82,Nuttallides truempyi,1.03,1.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,286.62,71.859,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,286.82,71.879,0.7,Nuttallides truempyi,0.9,0.9,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,287.02,71.899,0.92,Nuttallides truempyi,1.15,1.15,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,288.62,72.109,0.82,Nuttallides truempyi,1.03,1.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,288.85,72.139,0.8,Nuttallides truempyi,1.01,1.01,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,289.05,72.169,0.49,Nuttallides truempyi,0.66,0.66,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,289.25,72.199,0.78,Nuttallides truempyi,0.99,0.99,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,289.45,72.229,0.51,Nuttallides truempyi,0.69,0.69,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,289.61,72.249,0.31,Nuttallides truempyi,0.46,0.46,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,289.85,72.279,0.4,Nuttallides truempyi,0.56,0.56,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,289.95,72.299,0.42,Nuttallides truempyi,0.58,0.58,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,290.15,72.319,0.36,Nuttallides truempyi,0.52,0.52,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,290.35,72.349,0.45,Nuttallides truempyi,0.62,0.62,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,290.55,72.379,0.48,Nuttallides truempyi,0.65,0.65,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,290.75,72.409,0.41,Nuttallides truempyi,0.57,0.57,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,290.95,72.439,0.35,Nuttallides truempyi,0.51,0.51,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,291.17,72.469,0.41,Nuttallides truempyi,0.57,0.57,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,291.35,72.489,0.35,Nuttallides truempyi,0.51,0.51,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,291.45,72.509,0.48,Nuttallides truempyi,0.65,0.65,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,291.64,72.529,0.36,Nuttallides truempyi,0.52,0.52,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,291.85,72.559,0.44,Nuttallides truempyi,0.61,0.61,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,292.05,72.589,0.34,Nuttallides truempyi,0.49,0.49,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,292.25,72.619,0.27,Nuttallides truempyi,0.42,0.42,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,292.45,72.649,0.36,Nuttallides truempyi,0.52,0.52,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,292.67,72.669,0.38,Nuttallides truempyi,0.54,0.54,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,292.85,72.699,0.36,Nuttallides truempyi,0.52,0.52,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,292.95,72.709,0.35,Nuttallides truempyi,0.51,0.51,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,293.12,72.739,0.53,Nuttallides truempyi,0.71,0.71,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,293.35,72.769,0.34,Nuttallides truempyi,0.49,0.49,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,293.55,72.799,0.55,Nuttallides truempyi,0.73,0.73,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,293.75,72.829,0.5,Nuttallides truempyi,0.67,0.67,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,293.95,72.849,0.46,Nuttallides truempyi,0.63,0.63,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,294.12,72.879,0.34,Nuttallides truempyi,0.49,0.49,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,294.35,72.909,0.35,Nuttallides truempyi,0.51,0.51,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,294.45,72.919,0.41,Nuttallides truempyi,0.57,0.57,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,294.62,72.949,0.47,Nuttallides truempyi,0.64,0.64,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,294.85,72.979,0.53,Nuttallides truempyi,0.71,0.71,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,295.05,73.009,0.33,Nuttallides truempyi,0.48,0.48,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,295.25,73.039,0.27,Nuttallides truempyi,0.42,0.42,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,295.45,73.059,0.23,Nuttallides truempyi,0.37,0.37,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,295.62,73.089,0.61,Nuttallides truempyi,0.8,0.8,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,295.85,73.119,0.4,Nuttallides truempyi,0.56,0.56,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,295.95,73.129,0.69,Nuttallides truempyi,0.89,0.89,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,296.12,73.159,0.67,Nuttallides truempyi,0.87,0.87,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,296.35,73.189,0.58,Nuttallides truempyi,0.76,0.76,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,296.55,73.219,0.64,Nuttallides truempyi,0.83,0.83,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,296.75,73.239,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,296.95,73.269,0.74,Nuttallides truempyi,0.94,0.94,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,297.12,73.299,0.58,Nuttallides truempyi,0.76,0.76,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,297.35,73.329,0.69,Nuttallides truempyi,0.89,0.89,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,297.45,73.339,0.64,Nuttallides truempyi,0.83,0.83,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,297.62,73.369,0.78,Nuttallides truempyi,0.99,0.99,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,297.86,73.649,0.48,Nuttallides truempyi,0.65,0.65,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,298.05,73.669,0.65,Nuttallides truempyi,0.84,0.84,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,298.23,73.679,0.7,Nuttallides truempyi,0.9,0.9,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,302.15,73.969,0.49,Nuttallides truempyi,0.66,0.66,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,302.55,73.999,0.49,Nuttallides truempyi,0.66,0.66,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,302.77,74.019,0.59,Nuttallides truempyi,0.78,0.78,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,302.85,74.019,0.28,Nuttallides truempyi,0.43,0.43,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,303.05,74.049,0.34,Nuttallides truempyi,0.49,0.49,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,303.25,74.069,0.29,Nuttallides truempyi,0.44,0.44,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,303.43,74.089,0.6,Nuttallides truempyi,0.79,0.79,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,303.65,74.109,0.63,Nuttallides truempyi,0.82,0.82,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,303.85,74.129,0.39,Nuttallides truempyi,0.55,0.55,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,303.98,74.149,0.59,Nuttallides truempyi,0.78,0.78,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,304.25,74.169,0.51,Nuttallides truempyi,0.69,0.69,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,304.35,74.189,0.38,Nuttallides truempyi,0.54,0.54,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,304.56,74.209,0.51,Nuttallides truempyi,0.69,0.69,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,304.75,74.229,0.51,Nuttallides truempyi,0.69,0.69,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,304.95,74.249,0.29,Nuttallides truempyi,0.44,0.44,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,305.15,74.269,0.53,Nuttallides truempyi,0.71,0.71,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,305.35,74.289,0.53,Nuttallides truempyi,0.71,0.71,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,305.57,74.309,0.44,Nuttallides truempyi,0.61,0.61,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,305.75,74.329,0.31,Nuttallides truempyi,0.46,0.46,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,306.45,74.389,0.59,Nuttallides truempyi,0.78,0.78,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,306.65,74.409,0.57,Nuttallides truempyi,0.75,0.75,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,306.85,74.419,0.28,Nuttallides truempyi,0.43,0.43,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,307.07,74.439,0.54,Nuttallides truempyi,0.72,0.72,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,307.25,74.459,0.5,Nuttallides truempyi,0.67,0.67,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,307.35,74.469,0.6,Nuttallides truempyi,0.79,0.79,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,307.55,74.489,0.44,Nuttallides truempyi,0.61,0.61,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,307.74,74.499,0.46,Nuttallides truempyi,0.63,0.63,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,310.65,74.749,0.22,Nuttallides truempyi,0.36,0.36,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,310.85,74.769,0.24,Nuttallides truempyi,0.38,0.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,311.05,74.789,0.44,Nuttallides truempyi,0.61,0.61,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,311.35,74.819,0.36,Nuttallides truempyi,0.52,0.52,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,311.55,74.829,0.11,Nuttallides truempyi,0.24,0.24,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,311.75,74.849,0.17,Nuttallides truempyi,0.3,0.3,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,312.55,74.919,0.07,Nuttallides truempyi,0.19,0.19,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,313.65,75.009,0.32,Nuttallides truempyi,0.47,0.47,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,314.55,75.089,0.04,Nuttallides truempyi,0.16,0.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,315.35,75.159,0.23,Nuttallides truempyi,0.37,0.37,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,315.85,75.209,0.4,Nuttallides truempyi,0.56,0.56,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,316.65,75.269,0.22,Nuttallides truempyi,0.36,0.36,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,319.05,75.479,0.17,Nuttallides truempyi,0.3,0.3,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,319.25,75.499,-0.05,Nuttallides truempyi,0.06,0.06,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,319.65,75.529,0,Nuttallides truempyi,0.11,0.11,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,319.85,75.549,0.06,Nuttallides truempyi,0.18,0.18,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,320.05,75.569,0,Nuttallides truempyi,0.11,0.11,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,320.15,75.579,0.24,Nuttallides truempyi,0.38,0.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,320.35,75.589,0.04,Nuttallides truempyi,0.16,0.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,320.75,75.629,0.09,Nuttallides truempyi,0.21,0.21,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,320.95,75.649,0.15,Nuttallides truempyi,0.28,0.28,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,321.35,75.679,0.3,Nuttallides truempyi,0.45,0.45,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,321.85,75.719,0.24,Nuttallides truempyi,0.38,0.38,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,322.25,75.759,0.2,Nuttallides truempyi,0.34,0.34,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,323.05,75.829,0.08,Nuttallides truempyi,0.2,0.2,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,323.75,75.889,0.1,Nuttallides truempyi,0.22,0.22,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,324.35,75.939,-0.06,Nuttallides truempyi,0.04,0.04,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,324.85,75.989,0.17,Nuttallides truempyi,0.3,0.3,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,325.25,76.019,0.01,Nuttallides truempyi,0.12,0.12,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,325.65,76.049,0.01,Nuttallides truempyi,0.12,0.12,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,326.05,76.089,0.06,Nuttallides truempyi,0.18,0.18,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,326.15,76.099,0.18,Nuttallides truempyi,0.31,0.31,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,326.55,76.129,0.13,Nuttallides truempyi,0.26,0.26,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,326.85,76.169,0.11,Nuttallides truempyi,0.24,0.24,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,328.35,76.289,0.36,Nuttallides truempyi,0.52,0.52,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,328.95,76.339,0.04,Nuttallides truempyi,0.16,0.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,329.45,76.409,0.31,Nuttallides truempyi,0.46,0.46,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,329.85,76.459,0.1,Nuttallides truempyi,0.22,0.22,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,330.35,76.519,0.08,Nuttallides truempyi,0.2,0.2,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,330.55,76.549,-0.12,Nuttallides truempyi,-0.02,-0.02,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,332.25,76.769,0.46,Nuttallides truempyi,0.63,0.63,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,332.65,76.819,0.3,Nuttallides truempyi,0.45,0.45,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,332.75,76.829,0.29,Nuttallides truempyi,0.44,0.44,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,332.95,76.859,0.52,Nuttallides truempyi,0.7,0.7,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,333.15,76.879,0.07,Nuttallides truempyi,0.19,0.19,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,333.35,76.909,-0.02,Nuttallides truempyi,0.09,0.09,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,333.55,76.939,0.04,Nuttallides truempyi,0.16,0.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,334.85,77.099,-0.13,Nuttallides truempyi,-0.03,-0.03,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,335.05,77.129,0.31,Nuttallides truempyi,0.46,0.46,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,335.25,77.149,0.32,Nuttallides truempyi,0.47,0.47,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,335.75,77.219,0.5,Nuttallides truempyi,0.67,0.67,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,335.95,77.239,0.64,Nuttallides truempyi,0.83,0.83,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,336.35,77.289,0.45,Nuttallides truempyi,0.62,0.62,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,336.55,77.319,0.35,Nuttallides truempyi,0.51,0.51,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,337.25,77.409,0.23,Nuttallides truempyi,0.37,0.37,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,338.05,77.509,-0.04,Nuttallides truempyi,0.07,0.07,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,338.75,77.599,0.34,Nuttallides truempyi,0.49,0.49,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,339.55,77.699,0.27,Nuttallides truempyi,0.42,0.42,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,340.55,77.829,-0.09,Nuttallides truempyi,0.01,0.01,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,341.35,77.939,0.14,Nuttallides truempyi,0.27,0.27,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,341.55,77.959,0.07,Nuttallides truempyi,0.19,0.19,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,342.05,78.029,0.14,Nuttallides truempyi,0.27,0.27,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,342.25,78.049,0.08,Nuttallides truempyi,0.2,0.2,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,342.85,78.129,0.41,Nuttallides truempyi,0.57,0.57,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,343.55,78.219,0.04,Nuttallides truempyi,0.16,0.16,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,344.15,78.289,0.11,Nuttallides truempyi,0.24,0.24,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,344.35,78.319,-0.03,Nuttallides truempyi,0.08,0.08,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,349.15,78.929,0.06,Nuttallides truempyi,0.18,0.18,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,349.95,79.039,0.2,Nuttallides truempyi,0.34,0.34,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,350.65,79.129,0.29,Nuttallides truempyi,0.44,0.44,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,351.05,79.179,0.38,Nuttallides truempyi,0.54,0.54,"Jung et al., 2013","Jung et al., 2013",
+ODP 1210B,351.25,79.209,0.13,Nuttallides truempyi,0.26,0.26,"Jung et al., 2013","Jung et al., 2013",
+U1348A,84.315,73.027,0.68,Aragonia,0.4,0.4,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.415,73.145,0.613,Aragonia,0.333,0.33,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.515,73.262,0.568,Aragonia,0.288,0.29,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.615,73.38,0.531,Aragonia,0.251,0.25,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.715,73.497,0.525,Aragonia,0.245,0.25,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.815,73.615,0.578,Aragonia,0.298,0.3,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.015,79.766,0.196,Aragonia,-0.084,-0.08,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.115,80.355,0.155,Aragonia,-0.125,-0.13,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.195,80.952,0.01,Aragonia,-0.27,-0.27,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.365,83.44,-0.376,Aragonia,-0.656,-0.66,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.415,83.64,-0.28,Aragonia,-0.56,-0.56,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.495,83.84,-0.484,Aragonia,-0.764,-0.76,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.315,73.027,0.254,Nuttallides,0.398,0.4,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.515,73.262,0.311,Nuttallides,0.461,0.46,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.615,73.38,0.647,Oridorsalis,0.367,0.37,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.815,73.615,0.438,Oridorsalis,0.158,0.16,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.015,79.766,0.206,Oridorsalis,-0.074,-0.07,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.295,83.24,-0.336,Oridorsalis,-0.616,-0.62,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.415,83.64,-0.297,Oridorsalis,-0.577,-0.58,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.495,83.84,-0.456,Oridorsalis,-0.736,-0.74,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.015,79.766,0.205,Osangularia,0.205,0.2,"Ando et al., 2013","Ando et al., 2013",
+U1348A,85.195,80.952,0.019,Osangularia,0.019,0.02,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.315,73.027,0.214,Paralabamina hillebrandti,0.214,0.21,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.515,73.262,0.16,Paralabamina hillebrandti,0.16,0.16,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.615,73.38,0.174,Paralabamina hillebrandti,0.174,0.17,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.715,73.497,0.201,Paralabamina hillebrandti,0.201,0.2,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.915,73.72,0.066,Paralabamina hillebrandti,0.066,0.07,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.415,73.145,0.196,Sliterella,0.196,0.2,"Ando et al., 2013","Ando et al., 2013",
+U1348A,84.715,73.497,0.137,Sliterella,0.137,0.14,"Ando et al., 2013","Ando et al., 2013",
